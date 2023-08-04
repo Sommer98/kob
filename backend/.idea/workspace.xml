@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d78f787e-3448-4973-9718-59881e570126" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendcloud/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backendcloud/backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendcloud/backend/src/main/java/com/kob/backend/controller/user/account/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backendcloud/backend/src/main/java/com/kob/backend/controller/user/account/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendcloud/backend/src/main/java/com/kob/backend/service/impl/ranklist/GetRanklistServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backendcloud/backend/src/main/java/com/kob/backend/service/impl/ranklist/GetRanklistServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GyV0L0VBYngfUJDyBpZ1321NBx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../backendcloud" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\kob\src\main\resources\templates\pk" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackendApplication">
+    <configuration name="BackendApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kob" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kob.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kob.backend" />
+      <option name="MAIN_CLASS_NAME" value="com.kob.backend.BackendApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kob" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kob.backend.BackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BackendApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d78f787e-3448-4973-9718-59881e570126" name="Default Changelist" comment="" />
+      <created>1667360588911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667360588911</updated>
+      <workItem from="1667360590155" duration="1230000" />
+      <workItem from="1667375800177" duration="7844000" />
+      <workItem from="1667743641834" duration="21968000" />
+      <workItem from="1667962936306" duration="5980000" />
+      <workItem from="1668070912524" duration="8381000" />
+      <workItem from="1668168036733" duration="31187000" />
+      <workItem from="1668424768555" duration="3452000" />
+      <workItem from="1671161500259" duration="67000" />
+      <workItem from="1677825544497" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
