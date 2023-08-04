@@ -1,1 +1,3 @@
-a great project base on Java
+king of bot on Java 
+This project is a Game Platfrom
+
