@@ -50,6 +50,19 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 
         http.addFilterBefore(jwtAuthenticationTokenFilter, UsernamePasswordAuthenticationFilter.class);
     }
+    //@Override
+    //protected void configure(HttpSecurity http) throws Exception {
+    //    http.csrf().disable()
+    //            .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+    //            .and()
+    //            .authorizeRequests()
+    //            .antMatchers("/user/account/token/", "/user/account/register/").permitAll() // 公开的链接
+    //            .antMatchers("/pk/start/game/", "/pk/receive/bot/move/").hasIpAddress("127.0.0.1")
+    //            .antMatchers(HttpMethod.OPTIONS).permitAll()
+    //            .anyRequest().authenticated();
+    //
+    //    http.addFilterBefore(jwtAuthenticationTokenFilter, UsernamePasswordAuthenticationFilter.class);
+    //}
 
     @Override
     public void configure(WebSecurity web) throws Exception {

@@ -14,7 +14,7 @@
                         <input v-model="password" type="password" class="form-control" id="password" placeholder="请输入密码">
                      </div>
                      <div class="error-message">{{ error_message }}</div>
-                     <button type="submit" class="btn btn-primary">提交</button>
+                     <button type="submit" class="btn btn-primary">登录</button>
 
                 </form>
 
@@ -81,8 +81,12 @@
                         }
                     })
                 },
-                error() {
-                    error_message.value = "用户名或密码错误"
+                error(resp) {
+                    if(resp.error_message === "1") {
+                        error_message.value = "该用户不存在，请先注册"
+                    }else {
+                        error_message.value = "用户名或密码错误"
+                    }
                 },
             }) 
 

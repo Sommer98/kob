@@ -30,9 +30,9 @@
     },
    setup() {
       const store = useStore();
-      // const socketUrl = `ws://127.0.0.1:3000/websocket/${store.state.user.token}/`; 
+      const socketUrl = `ws://127.0.0.1:3000/websocket/${store.state.user.token}/`; 
       // const socketUrl = `wss://app3584.acapp.acwing.com.cn/websocket/${store.state.user.token}/`; 
-      const socketUrl = `wss://www.kodbrook.com/websocket/${store.state.user.token}/`; 
+      // const socketUrl = `wss://www.kodbrook.com/websocket/${store.state.user.token}/`; 
 
 
       store.commit("updateLoser", "none");

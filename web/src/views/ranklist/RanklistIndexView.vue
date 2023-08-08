@@ -89,9 +89,9 @@
         const pull_page = page => {
             current_page = page;
             $.ajax({
-                // url: "http://127.0.0.1:3000/ranklist/getlist/",
+                url: "http://127.0.0.1:3000/ranklist/getlist/",
                 // url: "https://app3584.acapp.acwing.com.cn/api/ranklist/getlist/",
-                url: "https://www.kodbrook.com/api/ranklist/getlist/",
+                // url: "https://www.kodbrook.com/api/ranklist/getlist/",
                 data: {
                     page,
                 },

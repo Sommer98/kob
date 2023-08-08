@@ -18,6 +18,11 @@ public class InfoController {
     public Map<String, String> getinfo() {
         return infoService.getinfo();
     }
+//    @GetMapping("/user/account/info")
+//    public Map<String, String> getinfo() {
+//        return infoService.getinfo();
+//    }
+
 
 
 }
